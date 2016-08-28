@@ -113,7 +113,7 @@
 static int _fishIndex = 0;
 
 - (void)update {
-    NSLog(@"..");
+
     _fishIndex++;
     
     if (_fishIndex > 1) {
